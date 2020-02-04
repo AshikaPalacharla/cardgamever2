@@ -6,13 +6,13 @@
 //  Copyright © 2020 Ashika Palacharla. All rights reserved.
 //
 
-#import "ViewController.h"
-
-@interface ViewController ()
+#import "CardController.h"
+/*
+@interface CardController ()
 
 @end
 
-@implementation ViewController
+@implementation CardController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
@@ -21,3 +21,4 @@
 
 
 @end
+*/
